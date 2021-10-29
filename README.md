@@ -1,5 +1,5 @@
 # Investigate-a-Dataset-Medical-Appointments-No-Shows-
-I examined the dataset and resolved a few issues, such as eliminating 
+I examined the dataset from Kaggle (https://www.kaggle.com/joniarroba/noshowappointments) and resolved a few issues, such as eliminating 
 incorrect data and creating new characteristics based on existing data. 
 The majority of the variables in the dataset were studied and got 
 amazing findings, and a few observations were made by comparing 
